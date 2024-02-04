@@ -1,1 +1,2 @@
 # codsoft_intern_2024
+During my internship, I delved into the realm of Java programming, where I honed my skills in crafting efficient and user-friendly applications. From designing a student grade calculator to creating an interactive number game and developing an intuitive ATM interface, I embraced the challenges with enthusiasm and dedication. Through hands-on experience, I learned the intricacies of Java development, blending creativity with technical expertise to deliver solutions that seamlessly cater to user needs.
