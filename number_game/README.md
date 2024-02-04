@@ -1,8 +1,2 @@
-#Number Game
-Welcome to the Number Game! Here's how it works:
-
-I have selected a mystery number between 1 and 100. Your challenge is to guess that number correctly. After each guess, I'll provide you with hints to guide you closer to the mystery number. If your guess is too high or too low, I'll let you know.
-
-If you manage to guess the mystery number correctly, you'll hear a triumphant "Ding ding ding!" Otherwise, tough luck! But don't worry, you can always take another shot.
-
-Are you ready to play? Let's get started! Just type in your guess, and we'll see if you can crack the code!
+Codsoft_intern_2024
+During my internship, I delved into the realm of Java programming, where I honed my skills in crafting efficient and user-friendly applications. From designing a student grade calculator to creating an interactive number game and developing an intuitive ATM interface, I embraced the challenges with enthusiasm and dedication. Through hands-on experience, I learned the intricacies of Java development, blending creativity with technical expertise to deliver solutions that seamlessly cater to user needs.
